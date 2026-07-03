@@ -143,8 +143,8 @@ public class App {
             } catch (Exception e) {
 
                 System.out.println(e.getMessage());
+                System.out.println("NeotericMethod");
                 System.out.println("Naveen");
-                System.out.println("neoteric");
             }
         }
 
